@@ -7,4 +7,5 @@ int vek=12;
 
 cout<<"volam sa"<<"meno"<< "a mam "<<"vek"<<end;
 return 0;
+
 ]
