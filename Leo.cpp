@@ -1,11 +1,11 @@
-#iclude <iostream>
+#include<iostream>
 using namespace std;
 
-int main()[
-string mesto=kosice;
-int vek=12;
+void meno()[
+  cout<<"Ahoj Leo"<<end;
+]
 
-cout<<"volam sa"<<"meno"<< "a mam "<<"vek"<<end;
-return 0;
-
+main()[
+  pozdrav();
+ return 0;
 ]
